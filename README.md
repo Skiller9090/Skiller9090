@@ -1,5 +1,5 @@
-<div color=#c36587 background-color=#332e39>
-  <h1 color=#c36587 background-color=#332e39>Skiller9090</h1>
+<div class="bg-red">
+  <h1 class="bg-red">Skiller9090</h1>
 </div>
 
 <!--
@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div color=#c36587 background-color=#332e39>
+<div>
   <br />
   <p align="center" color=#c36587 background-color=#332e39>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skiller9090&layout=compact&count_private=true&show_icons=true&theme=dracula" />
   </p>
-  <p align="center color=#c36587 background-color=#332e39">
+  <p align="center" color=#c36587 background-color=#332e39">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Skiller9090&show_icons=true&hide_border=true&count_private=true&show_icons=true&theme=dracula" />
   </p>
 </div>
