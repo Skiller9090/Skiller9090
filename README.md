@@ -17,17 +17,12 @@ Here are some ideas to get you started:
 
 <div>
   <br />
-
-  <p> </p>
-
   <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skiller9090&layout=compact&count_private=true&show_icons=true&theme=dracula" />
   </p>
-  <br />
   <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Skiller9090&show_icons=true&hide_border=true&count_private=true&show_icons=true&theme=dracula" />
   </p>
-  
 </div>
 
 
