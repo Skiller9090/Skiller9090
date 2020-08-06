@@ -1,5 +1,5 @@
-<div class="bg-red">
-  <h1 class="bg-red">Skiller9090</h1>
+<div class="text-red">
+  <h1 class="text-red">Skiller9090</h1>
 </div>
 
 <!--
