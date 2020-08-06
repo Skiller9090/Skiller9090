@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 <p> </p>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Skiller9090&show_icons=true&hide_border=true&count_private=true" />
+<a>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Skiller9090&show_icons=true&hide_border=true&count_private=true&show_icons=true&theme=dracula" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skiller9090&layout=compact" />
+<a>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skiller9090&layout=compact&count_private=true&show_icons=true&theme=dracula" />
 </a>
