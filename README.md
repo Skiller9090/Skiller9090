@@ -1,4 +1,6 @@
-### Hi there 👋
+<div color=#c36587 background-color=#332e39>
+  <h1 color=#c36587 background-color=#332e39>Skiller9090</h1>
+</div>
 
 <!--
 **Skiller9090/Skiller9090** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,12 +17,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div>
+<div color=#c36587 background-color=#332e39>
   <br />
-  <p align="center">
+  <p align="center" color=#c36587 background-color=#332e39>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skiller9090&layout=compact&count_private=true&show_icons=true&theme=dracula" />
   </p>
-  <p align="center">
+  <p align="center color=#c36587 background-color=#332e39">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Skiller9090&show_icons=true&hide_border=true&count_private=true&show_icons=true&theme=dracula" />
   </p>
 </div>
