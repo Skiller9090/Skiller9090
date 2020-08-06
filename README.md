@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div class="bg-dracula">
+<div background-color: #292935>
   <br />
 
   <p> </p>
@@ -27,6 +27,5 @@ Here are some ideas to get you started:
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skiller9090&layout=compact&count_private=true&show_icons=true&theme=dracula" />
   </a>
 </div>
-.bg-dracula {
-  background-color: #292935;
-}
+
+
