@@ -1,7 +1,6 @@
-<div class="text-red mb-2 bg-black">
-  Skiller9090
+<div class="text-white bg-gray-dark mb-2">
+  .text-white on .bg-gray-dark
 </div>
-
 <!--
 **Skiller9090/Skiller9090** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
