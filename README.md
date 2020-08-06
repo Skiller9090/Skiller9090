@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div background-color: #292935>
+<div class="mt-2 bg-purple-light">
   <br />
 
   <p> </p>
