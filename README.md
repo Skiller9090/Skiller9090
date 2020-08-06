@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 ### Recently I'm coding in...
 
 <a href="https://codestats.net/users/Skiller9090">
-  <img src='https://codestats-readme.Skiller9090.cn/history-graph/Skiller9090?width=850&height=300&timezone=08:00&history_days=21&max_languages=9&language_colors=["3e4053","f15854","5da5da","faa43a","60bd68","f17cb0","b2912f","decf3f","b276b2","808080"]' alt="Skiller9090's Code::Stats history graph" />
+  <img src='https://codestats-readme.wegfan.cn/history-graph/Skiller9090?width=850&height=300&timezone=08:00&history_days=21&max_languages=9&language_colors=["3e4053","f15854","5da5da","faa43a","60bd68","f17cb0","b2912f","decf3f","b276b2","808080"]' alt="Skiller9090's Code::Stats history graph" />
 </a>
 
  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Skiller9090.Skiller9090)
